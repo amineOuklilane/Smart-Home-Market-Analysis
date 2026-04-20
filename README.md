@@ -11,7 +11,7 @@ This project bridges the gap between **Embedded Systems Engineering (ESP32)** an
 
 ![Project Header](Assets/Image1.png)
 
-*Figure 1: Official SMARTHOME-MA Branding*
+    *Figure 1: Official SMARTHOME-MA Branding*
 
 ---
 
