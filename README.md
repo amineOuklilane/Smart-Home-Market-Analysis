@@ -110,4 +110,4 @@ Our revenue model combines hardware sales with recurring service subscriptions.
 ---
 
 ### 📄 Full Documentation
-[👉 Click here to access the full 30-page Technical Report (PDF)](./Rapport_Final_Smart_Home.pdf)
+[👉 Click here to access the full 30-page Technical Report (PDF)](./Rapport_Final_Smart_Home.docx)
