@@ -8,7 +8,7 @@
 ## 📑 Executive Summary
 [cite_start]This project bridges the gap between **Embedded Systems Engineering (ESP32)** and the fundamental needs for domestic comfort, security, and energy efficiency[cite: 47, 49]. [cite_start]In the 2026 landscape, the Smart Home concept has transitioned from science fiction to an essential reality driven by the emergence of the Internet of Things (IoT)[cite: 46, 47].
 
-![Project Header](assets/Image1.png)
+![Project Header](Assets/Image1.png)
 [cite_start]*Logo: SMARTHOME-MA - Make Your Life More Intelligent* 
 
 ---
