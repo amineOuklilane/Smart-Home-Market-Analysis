@@ -9,6 +9,7 @@
 [cite_start]This project bridges the gap between **Embedded Systems Engineering (ESP32)** and the fundamental needs for domestic comfort, security, and energy efficiency[cite: 47, 49]. [cite_start]In the 2026 landscape, the Smart Home concept has transitioned from science fiction to an essential reality driven by the emergence of the Internet of Things (IoT)[cite: 46, 47].
 
 ![Project Header](Assets/Image1.png)
+
 [cite_start]*Logo: SMARTHOME-MA - Make Your Life More Intelligent* 
 
 ---
@@ -27,9 +28,12 @@ Based on our 2026 survey of urban residents:
 * [cite_start]**66.7%** of the target audience values **Quality** as the most important decision factor[cite: 130].
 
 > **IMAGE TO ADD:** Screenshot the pie chart from **Source 127** (Interest in Smart Home) and place it here.
-![Project Header](Image9.png)
-![Project Header](Image10.png)
-![Project Header](Image11.png)
+> 
+![Project Header](Assets/Image9.png)
+> 
+![Project Header](Assets/Image10.png)
+
+![Project Header](Assets/Image11.png)
 
 
 ---
@@ -63,13 +67,17 @@ Based on our 2026 survey of urban residents:
 ## 📈 4. Strategic Feasibility Study
 
 ### 4.1 PESTEL Analysis (Morocco 2026)
-![Project Header](PESTEL.png)
+
+![Project Header](Assets/PESTEL.png)
+
 * [cite_start]**Political/Economic:** Stable environment for digital entrepreneurship; high demand for energy-saving tech due to variable purchasing power[cite: 181].
 * [cite_start]**Technological:** High high-speed internet penetration and smartphone usage[cite: 181].
 * [cite_start]**Legal:** Strict adherence to new IoT security regulations to build user trust[cite: 181, 184].
 
 ### 4.2 SWOT Diagnostic
-![Project Header](SWOT.png)
+
+![Project Header](Assets/SWOT.png)
+
 | **STRENGTHS** | **WEAKNESSES** |
 | :--- | :--- |
 | [cite_start]ESP32/IoT technical expertise[cite: 192]. | [cite_start]Brand awareness needs development[cite: 192]. |
@@ -79,14 +87,18 @@ Based on our 2026 survey of urban residents:
 | [cite_start]Expansion into hotels and offices[cite: 192]. | [cite_start]Rapid evolution of tech standards[cite: 192]. |
 
 > **IMAGE TO ADD:** Use the **SWOT** or **PESTEL** table images from **Source 179/191**.
-![Project Header](PESTEL_Table.png)
-![Project Header](SWOT_Table.png)
+> 
+![Project Header](Assets/PESTEL_Table.png)
+
+![Project Header](Assets/SWOT_Table.png)
+
 ---
 
 ## 💰 5. Business Model & Financial Forecasts
 [cite_start]Our revenue model combines hardware sales with recurring service subscriptions[cite: 289].
 
-![Project Header](Targets.png)
+![Project Header](Assets/Targets.png)
+
 
 ### 5.1 Financial Projections (MAD)
 | Financial Indicator | Year 1 (Invest) | Year 2 (Profit) | Year 3 (Scale) |
@@ -95,7 +107,7 @@ Based on our 2026 survey of urban residents:
 | **Hardware Sales** | [cite_start]350,000 [cite: 285] | [cite_start]1,000,000 [cite: 285] | [cite_start]2,200,000 [cite: 285] |
 | **Net Result (Pre-Tax)**| [cite_start]**-30,000** [cite: 285] | [cite_start]**+380,000** [cite: 285] | [cite_start]**+1,370,000** [cite: 285] |
 
-![Project Header](Finances-Table.png)
+![Project Header](Assets/Finances-Table.png)
 
 ---
 
